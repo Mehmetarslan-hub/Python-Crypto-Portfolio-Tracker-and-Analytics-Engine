@@ -1,0 +1,32 @@
+[
+    {
+        "isim": "Bitcoin",
+        "adet": 2,
+        "alis_fiyati": 50000,
+        "guncel_fiyat": 2456787.0
+    },
+    {
+        "isim": "Ethereum",
+        "adet": 5,
+        "alis_fiyati": 3200,
+        "guncel_fiyat": 2400
+    },
+    {
+        "isim": "Solana",
+        "adet": 20,
+        "alis_fiyati": 145,
+        "guncel_fiyat": 150
+    },
+    {
+        "isim": "Avax",
+        "adet": 50,
+        "alis_fiyati": 28,
+        "guncel_fiyat": 30
+    },
+    {
+        "isim": "Ripple",
+        "adet": 1000,
+        "alis_fiyati": 0.55,
+        "guncel_fiyat": 0.6
+    }
+]
